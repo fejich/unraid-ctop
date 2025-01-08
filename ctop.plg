@@ -22,6 +22,10 @@
 <URL>https://raw.githubusercontent.com/&author;/unraid-&name;/main/&name;-&version;.tgz</URL>
 </FILE>
 
+<FILE Name="/usr/local/emhttp/plugins/&name;/images/&name;.png">
+<URL>https://raw.githubusercontent.com/&author;/unraid-&name;/main/logo.png</URL>
+</FILE>
+
 <FILE Name="&emhttp;/README.md">
 <INLINE>
 **ctop**
@@ -29,6 +33,7 @@
 Top-like interface for container metrics
 
 This is a plugin for the ctop binary executable
+
 Source: https://ctop.sh
 </INLINE>
 </FILE>
