@@ -9,9 +9,12 @@
   <!ENTITY emhttp    "/usr/local/emhttp/plugins/&name;">
 ]>
 
-<PLUGIN  name="&name;" author="&author;" version="&version;" pluginURL="&pluginURL;" min="6.9.0" support="https://ctop.sh">
+<PLUGIN  name="&name;" author="&author;" version="&version;" pluginURL="&pluginURL;" min="6.9.0" support="https://github.com/fejich/unraid-ctop">
 
 <CHANGES>
+
+###2025.01.08
+- Add icon
 
 ###2025.01.07
 - Initial release
