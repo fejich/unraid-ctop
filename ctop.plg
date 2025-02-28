@@ -25,10 +25,6 @@
 <URL>https://raw.githubusercontent.com/&author;/unraid-&name;/main/&name;-&version;.tgz</URL>
 </FILE>
 
-<FILE Name="/usr/local/emhttp/plugins/&name;/images/&name;.png">
-<URL>https://raw.gitmirror.com/&author;/unraid-&name;/main/logo.png</URL>
-</FILE>
-
 <FILE Name="&emhttp;/README.md">
 <INLINE>
 **ctop**
