@@ -25,6 +25,14 @@
 <URL>https://raw.githubusercontent.com/&author;/unraid-&name;/main/&name;-&version;.tgz</URL>
 </FILE>
 
+<FILE Name="/boot/config/plugins/&name;/icon.png">
+<URL>https://raw.githubusercontent.com/&author;/unraid-&name;/main/logo.png</URL>
+</FILE>
+
+<FILE Name="/usr/local/emhttp/plugins/&name;/images/&name;.png">
+</LOCAL>/boot/config/plugins/&name;/icon.png</LOCAL>
+</FILE>
+
 <FILE Name="&emhttp;/README.md">
 <INLINE>
 **ctop**
