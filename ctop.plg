@@ -30,7 +30,7 @@
 </FILE>
 
 <FILE Name="/usr/local/emhttp/plugins/&name;/images/&name;.png">
-</LOCAL>/boot/config/plugins/&name;/icon.png</LOCAL>
+<LOCAL>/boot/config/plugins/&name;/icon.png</LOCAL>
 </FILE>
 
 <FILE Name="&emhttp;/README.md">
